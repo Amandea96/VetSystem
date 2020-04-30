@@ -1,0 +1,50 @@
+﻿@model VetSystemEngineer.Models.Institution
+@{
+    ViewData["Title"] = "Stwórz placówkę";
+    Layout = "_InstLayout";
+    ViewBag.Wallpaper ="../../images/ClinicVet.jpg";
+    ViewBag.Desc = "Dodaj nowy gabinet do systemu";
+}
+
+    <div class="box-cont ">
+        <div class="container-fluid  ">
+            <form asp-action="CreateInstitution" method="post">
+
+
+                <div class="form-group lab-font">
+                    <label asp-for="EmailInst">Email</label>
+                    <input asp-for="EmailInst" class="form-control">
+                    <span asp-validation-for="EmailInst" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="NameInst">Nazwa</label>
+                    <input asp-for="NameInst" class="form-control">
+                    <span asp-validation-for="NameInst" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PhNumInst">Nr tel</label>
+                    <input asp-for="PhNumInst" class="form-control">
+                    <span asp-validation-for="PhNumInst" class="text-danger"></span>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-5">
+                        <label asp-for="City">Miasto</label>
+                        <input asp-for="City" class="form-control">
+                        <span asp-validation-for="City" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-md-5">
+                        <label asp-for="AddressInst">Ulica</label>
+                        <input asp-for="AddressInst" class="form-control">
+                        <span asp-validation-for="AddressInst" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-md-2">
+                        <label asp-for="Postcode">Kod pocztowy</label>
+                        <input asp-for="Postcode" class="form-control">
+                        <span asp-validation-for="Postcode" class="text-danger"></span>
+                    </div>
+
+
+                </div>
+                <button type="submit" class="btn-lg btn-primary float-right">Dodaj placówkę</button>
+            </form>
+            </div></div>

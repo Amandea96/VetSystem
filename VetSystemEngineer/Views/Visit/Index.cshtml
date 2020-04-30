@@ -1,0 +1,92 @@
+﻿
+@model IEnumerable<VetSystemEngineer.ViewModels.JoinPatientOwner>
+@{
+    ViewData["Title"] = "Pacjenci";
+    ViewBag.Wallpaper = "../images/Cat.jpg";
+    Layout = "_InstLayout";
+    var i = 1;
+}
+
+    <div class="box-c-dark">
+        <h4 class="mb-3 text-center">Szukaj pacjenta</h4>
+
+
+
+        <form asp-action="PatientList" method="post">
+            <div class=" flex-row d-flex  justify-content-md-center ">
+                <div class="p-2 flex-fill   mr-md-5 ml-md-5">
+                    <input type="text" name="surname" id="surname" placeholder="Nazwisko" class="w-100 reg" />
+                    
+                    
+                </div>
+
+
+
+
+                <div class="p-2 flex-fill">
+
+                    <input type="text" name="petName" id="petName" placeholder="Imię zwierzęcia" class="w-100 reg" />
+
+                </div>
+
+                <div class="p-2">  <button class="btn btn-primary align-content-lg-end " type="submit">Szukaj</button></div>
+            </div>
+        </form>
+       
+    </div>
+    <div class="box-cont">
+        <div class="container-fluid  ">
+            <a class="btn btn-primary  btn-marg-b" asp-action="CreatePatientVisit">Dodaj pacjenta</a>
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th style="width:5%" scope="col">#</th>
+                            <th style="width:10%" scope="col">Imię</th>
+                            <th style="width:12%" scope="col">Typ zwierzęcia</th>
+                            <th style="width:15%" scope="col">Rasa</th>
+                            <th style="width:10%" scope="col">Płeć</th>
+                            <th style="width:12%" scope="col">Data urodzenia</th>
+                            <th style="width:14%" scope="col">Imię właściciela</th>
+                            <th style="width:12%" scope="col">Nazwisko</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var p in Model)
+                        {
+
+                            <tr>
+
+                                <th scope="row"> @i</th>
+                                <td> <a asp-controller="Visit" asp-action="MedicalDocumentation" asp-route-id="@p.Pet.IdPatient">@p.Pet.Name</a></td>
+                                <td>@p.TypePet.NameGenus</td>
+                                <td>@p.Pet.Breed</td>
+                                <td>@p.Pet.Sex</td>
+
+                                <td>@Convert.ToDateTime(p.Pet.Age).ToString("dd/MM/yyyy")</td>
+
+                                <td>@p.Owner.Name</td>
+                                <td>@p.Owner.Surname</td>
+                                <td>
+                                    <a asp-controller="Visit" asp-action="NewVisit" asp-route-id="@p.Pet.IdPatient"
+                                       class="btn btn-primary">
+                                        Nowa wizyta
+                                    </a>
+                                </td>
+                            </tr>
+
+                            i++;
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+

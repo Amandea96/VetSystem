@@ -1,0 +1,49 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+    <ul class="navbar-nav">
+
+
+        @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin")) { 
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Zarejestruj</a>
+
+
+            </li>}
+
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                    @(User.FindFirst("LogName").Value)
+                    @(User.FindFirst("LogSurName").Value)
+                </a>
+                <div class="dropdown-menu">
+                    <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Edytuj</a>
+
+
+
+
+                    <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+
+                        <button type="submit" class="nav-link btn btn-link text-dark">Wyloguj</button>
+                    </form>
+
+                </div>
+            </li>
+
+        }
+        else
+        {
+
+
+
+
+
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">Zaloguj</a>
+            </li>
+        }
+    </ul>

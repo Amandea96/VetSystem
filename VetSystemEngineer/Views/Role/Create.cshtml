@@ -1,0 +1,33 @@
+﻿@model Microsoft.AspNetCore.Identity.IdentityRole
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+    <div class="box-cont  mx-1 mx-lg-5 mx-md-2 text-center">
+        <div class="special" style="padding-top:6rem">
+            <span class="icon fas fa-user-plus"></span>
+            <h1>Stwórz rolę</h1>
+            <hr />
+           
+                <div class="col-md-4 offset-md-4 col-8 offset-2">
+                    <form asp-action="Create">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label">Nazwa</label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Dodaj" class="btn-lg btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+           
+                <a class="btn btn-primary float-left " asp-action="Index">Powróć do listy ról</a>
+            </div>
+            @section Scripts {
+                @{await Html.RenderPartialAsync("_ValidationScriptsPartial");
+                }
+            }

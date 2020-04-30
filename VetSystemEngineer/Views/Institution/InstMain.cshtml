@@ -1,0 +1,106 @@
+﻿@model IEnumerable<VetSystemEngineer.Models.Institution>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "Placówki";
+    Layout = "_InstLayout";
+    var i = 1;
+    ViewBag.Wallpaper = "../images/ClinicVet.jpg";
+    ViewBag.Desc = "Lista placówek objętych projektem";
+}
+
+<div class="box-c-dark">
+    <h4 class="mb-3 text-center">Wyszukaj placówkę</h4>
+
+
+
+
+
+    <div>
+       
+            <div class=" flex-row d-flex  justify-content-md-center ">
+                <div class="p-2 flex-fill   mr-md-5 ml-md-5">
+
+                    <input placeholder="Wpisz miasto, nazwę lub dane kontaktowe" type="text" name="city" id="city" class="w-100 reg" />
+
+                </div>
+             
+            </div>
+        
+   </div>
+
+</div>
+
+<div class="box-cont">
+    <div class="container-fluid  ">
+
+        @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+        {<div class="row">
+    <a class="btn btn-primary btn-marg-b" asp-action="CreateInstitution">Dodaj placówkę</a>
+    <a class="btn btn-success btn-marg-b ml-1" asp-action="AddType">Dodaj typ zwierzęcia</a>
+</div>
+        }
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th style="width:10%">#</th>
+                        <th style="width:20%">Nazwa</th>
+                        <th style="width:20%">Miasto</th>
+                        <th style="width:20%">Adres</th>
+                        <th style="width:20%">Nr Tel</th>
+
+                </thead>
+                <tbody id="instSearch">
+                    @foreach (var p in Model)
+                    {
+
+                        <tr>
+
+                            <th scope="row">@i</th>
+                            <td> <a asp-controller="Institution" asp-action="Details" asp-route-id="@p.IdInst">@p.NameInst</a></td>
+                            <td>@p.City</td>
+                            <td>@p.AddressInst</td>
+                            <td>@p.PhNumInst</td>
+
+                            @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                            {
+                                <td>
+
+
+                                    <a asp-controller="Institution" asp-action="AddBossVet" asp-route-id="@p.IdInst"
+                                       class="btn btn-primary">
+                                        Dodaj szefa
+                                    </a>
+
+
+                                </td>
+                            }
+
+                        </tr>
+
+                        i++;
+                    }
+                </tbody>
+            </table>
+        </div>
+
+
+    </div>
+</div>
+
+
+<script>
+$(document).ready(function(){
+  $("#city").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#instSearch tr").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>
+
+
+

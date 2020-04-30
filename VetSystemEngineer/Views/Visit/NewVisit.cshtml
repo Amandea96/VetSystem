@@ -1,0 +1,220 @@
+﻿
+
+@model VetSystemEngineer.ViewModels.MedicalDocumentation
+@{
+    ViewData["Title"] = "NewVisit";
+    Layout = "_Layout";
+
+
+
+}
+
+<div class="box-cont mb-5">
+    <div class="container-fluid">
+        
+            
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="card">
+                        <div class="card-header">Dane właściciela</div>
+                        <div class="card-body">
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <th>Imię</th>
+                                        <td>@Model.Owner.Name</td>
+
+                                    </tr>
+                                    <tr>
+                                        <th>Nazwisko</th>
+                                        <td>@Model.Owner.Surname</td>
+
+                                    </tr>
+                                    <tr>
+                                        <th>Email</th>
+                                        <td>@Model.Owner.Email</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <th>Numer telefonu</th>
+                                        <td>@Model.Owner.PhoneNumber</td>
+
+                                    </tr>
+                                    <tr>
+                                        <th>Adres</th>
+                                        <td>@Model.Owner.Address</td>
+
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-sm-6">
+                    <div class="card">
+                        <div class="card-header">Dane pacjenta</div>
+                        <div class="card-body">
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <th>Imię</th>
+                                        <td>@Model.Pet.Name</td>
+
+                                    </tr>
+                                    <tr>
+                                        <th>Płeć</th>
+                                        <td>@Model.Pet.Sex</td>
+
+                                    </tr>
+                                    <tr>
+                                        <th>Data urodzenia</th>
+                                        <td>@Convert.ToDateTime(Model.Pet.Age).ToString("dd/MM/yyyy")</td>
+
+                                    </tr>
+                                    <tr>
+                                        <th>Typ zwierzęcia</th>
+                                        <td>@Model.PetType.NameGenus</td>
+
+                                    </tr>
+                                    <tr>
+                                        <th>Rasa</th>
+                                        <td>@Model.Pet.Breed</td>
+
+                                    </tr>
+
+                                    <tr>
+                                        <th>Sterylizacja / kastracja</th>
+                                        <td>@Model.Pet.SterilizedCastration</td>
+
+                                    </tr>
+                                    <tr>
+                                        <th>Waga</th>
+                                        <td>@Model.Pet.Weight kg</td>
+
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card" style="margin-top:2em">
+                <h5 class="card-header text-center">
+                    <a data-toggle="collapse" href="#collapse-example" aria-expanded="false" aria-controls="collapse-example" id="heading-example" class="d-block">
+                        <i class="fa fa-chevron-down pull-right "></i>
+                        Historia medyczna
+                    </a>
+                </h5>
+                <div id="collapse-example" class="collapse " aria-labelledby="heading-example">
+                    <div class="card-body">
+                        @for (int i = 0; i < Model.medicalHistory.Count(); i++)
+                        {
+
+                            <div class="card" style="margin-bottom:1em">
+                                <div class="card-header ">
+                                    <div class="row">
+                                        <div class="col text-right">
+                                            <i class="far fa-clock pr-1"></i> @Model.medicalHistory[i].DateVisit
+                                        </div>
+                                        <div class="col text-left">
+                                            <i class="fas fa-user"></i> @Model.VetInfo[i].Name @Model.VetInfo[i].Surname
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card-body">
+
+                                    <div class="container-fluid">
+                                        <div class="row">
+                                            <div class="col text-center">
+                                                <h5 class="card-title">Powód przyjęcia</h5>
+                                                @Model.medicalHistory[i].Purpose
+                                            </div>
+                                            <div class="col text-center">
+                                                <h5 class="card-title"> Opis poczynionych czynności</h5>
+
+                                                @Model.medicalHistory[i].DecrDisActions
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                        }
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+
+<div class="box-cont">
+    <div class="container-fluid">
+       @* <h3>Nowa wizyta</h3>
+        <partial name="_AddVisit" />*@
+
+        <form asp-action="NewVisit" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+
+            <div class="form-group">
+                <label asp-for="Weight">Waga</label>
+                <input asp-for="Weight" class="form-control">
+                <span asp-validation-for="Weight" class="text-danger"></span>
+            </div>
+
+            @if (ViewBag.Type == "Inny")
+            {
+                <div class=" form-group ">
+                    <label>Typ/rodzaj zwierzęcia</label>
+                    <select class="selectpicker form-control" data-live-search="true" data-style="btn btn-outline-primary" data-size="5" asp-for="SelectedType" asp-items=@Model.ListType>
+                    </select>
+                </div>}
+
+            <div class="form-group">
+                <label>Sterylizacja/kastracja</label>
+                <select class="form-control selectpicker" data-style="btn btn-outline-primary" asp-for="SterilizedCastration" asp-items="Model.SterilizedCastrationList"></select>
+
+            </div>
+
+
+            <div class="row">
+                <div class="col">
+                    <div class="form-group">
+                        <label asp-for="Purpose">Powód przyjęcia</label>
+                        <textarea class="form-control" asp-for="Purpose" rows="5"></textarea>
+                        <span asp-validation-for="Purpose" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="form-group">
+                        <label asp-for="DecrDisActions">Czynności</label>
+                        <textarea class="form-control" asp-for="DecrDisActions" rows="5"></textarea>
+                        <span asp-validation-for="DecrDisActions" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <button type="submit" class="btn-lg btn-primary float-right">Dodaj nową wizytę</button>
+
+        </form>
+
+    </div></div>
+

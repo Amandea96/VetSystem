@@ -1,0 +1,45 @@
+﻿@{
+    Layout = "_Layout";
+
+    @*ViewData["Wallpaper"] ="../images/" + ViewData["Title"] + ".jpg";*@
+}
+
+
+
+
+
+<div class="card card-image header-img" style="background-image: url('@ViewBag.Wallpaper' );background-position-y:40%;">
+
+
+    <div class="text-white text-center rgba-stylish-strong py-5 px-4">
+        <div class="py-5 box-c-dark-inst">
+
+            <!-- Content -->
+
+            <h2 class="card-title h2 my-4 py-2 ">@ViewData["Title"]</h2>
+            <h5 class="mb-4 pb-2 px-md-5 mx-md-5">@ViewBag.Desc</h5>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+@RenderBody()
+
+
+
+
+
+
+
+
+
+
+    

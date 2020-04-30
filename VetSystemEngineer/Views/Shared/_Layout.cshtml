@@ -1,0 +1,116 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>@ViewData["Title"] - VetSystemEngineer</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/css/styles.css" rel="stylesheet" />
+    
+    <link rel="stylesheet" media="screen and min-device-pixel-ratio: 2"
+          href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+   
+    
+    <link href="~/lib/bootstrap-select/css/bootstrap-select.css" rel="stylesheet" />
+
+    <link href="~/lib/font-awesome/css/all.css" rel="stylesheet" />
+    <script src="~/lib/font-awesome/js/all.js"></script>
+    <link href="~/lib/bootstrap/css/bootstrap-grid.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/js/bootstrap.js"></script>
+    <script src="~/lib/popper.js/umd/popper.js" type="text/javascript"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+</head>
+<body class="gray">
+
+
+    <header>
+
+
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+
+                <a class="navbar-brand" href="#">
+                    <img src="~/images/cat_vector.png" width="35" height="35" class="d-inline-block align-top" alt="" />
+
+                    SysVet
+                </a>
+               
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <partial name="_LoginPartial" />
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Główna</a>
+                        </li>
+
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Institution" asp-action="InstMain">Placówki</a>
+                        </li>
+
+                        @if (SignInManager.IsSignedIn(User) && User.IsInRole("BossVet"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Employee" asp-action="Index">Administracja</a>
+                            </li>
+
+                        }
+
+                        @if (SignInManager.IsSignedIn(User) && (User.IsInRole("Vet") || User.IsInRole("BossVet")))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Visit" asp-action="PatientList">Wizyty</a>
+                            </li>
+
+                        }
+
+
+                        @if (SignInManager.IsSignedIn(User) && User.IsInRole("Owner"))
+                        {
+
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Owner" asp-action="Pets">Dokumentacja medyczna</a>
+                            </li>
+
+                        }
+                        @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin")) { 
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Role" asp-action="Index">Role</a>
+                            </li>
+                        }
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+            <script src="~/lib/jquery/jquery.js" type="text/javascript"></script>
+
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted text-center">
+        <div class="container">
+            &copy; 2020 - VetSystemEngineer created by Amanda Knol
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/bootstrap-select/js/bootstrap-select.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,42 @@
+﻿
+@model VetSystemEngineer.Models.Genus
+@{
+    ViewData["Title"] = "Utwórz nowy typ zwierzęcia";
+    Layout = "_Layout";
+}
+<div class="box-cont  mx-1 mx-lg-5 mx-md-2 text-center">
+    <div class="special" style="padding-top:6rem">
+        <span class="icon fas fa-kiwi-bird"></span>
+        <h1>@ViewData["Title"]</h1>
+        
+
+        <h4>Wpisz poniżej nazwę nowego typu zwierzęcia</h4>
+
+
+        <div class="row">
+            <div class="col-md-4 offset-md-4">
+                @if (@TempData["Exist"] != null)
+                {
+                    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                        @TempData["Exist"]
+                        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>}
+                <form method="post">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <div class="form-group">
+
+                        <label asp-for="NameGenus">Typ/rodzaj zwierzęcia</label>
+                        <input asp-for="NameGenus" class="form-control" />
+                        <span asp-validation-for="NameGenus" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn-lg btn-primary">Dodaj</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

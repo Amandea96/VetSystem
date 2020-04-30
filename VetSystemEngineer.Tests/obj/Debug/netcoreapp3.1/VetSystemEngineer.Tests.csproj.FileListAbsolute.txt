@@ -1,0 +1,446 @@
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Views.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Views.pdb
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.StaticWebAssets.xml
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.exe
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Tests.deps.json
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Tests.runtimeconfig.json
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Tests.runtimeconfig.dev.json
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Tests.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Tests.pdb
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.pdb
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.csprojAssemblyReference.cache
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.AssemblyInfoInputs.cache
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.AssemblyInfo.cs
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.csproj.CopyComplete
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.dll
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.pdb
+C:\Users\Amanda\Desktop\DODAWANIE PACJENTA\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.genruntimeconfig.cache
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.csprojAssemblyReference.cache
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.AssemblyInfoInputs.cache
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.AssemblyInfo.cs
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.pdb
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\libman.json
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Views.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Views.pdb
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\appsettings.json
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.StaticWebAssets.xml
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.exe
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Tests.deps.json
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Tests.runtimeconfig.json
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Tests.runtimeconfig.dev.json
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Tests.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.Tests.pdb
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.assert.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.core.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.dll
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\bin\Debug\netcoreapp3.1\VetSystemEngineer.pdb
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.csproj.CopyComplete
+E:\jeden z ostatnich\VetSystemEngineer\VetSystemEngineer.Tests\obj\Debug\netcoreapp3.1\VetSystemEngineer.Tests.genruntimeconfig.cache

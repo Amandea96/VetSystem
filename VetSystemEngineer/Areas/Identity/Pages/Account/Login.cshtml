@@ -1,0 +1,87 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Logowanie";
+}
+    <div class="box-cont mx-1 mx-lg-5 mx-md-2">
+        <div class="container-fluid  ">
+           
+            <div class="row">
+                <div class="col-md-4 offset-md-1 ">
+                    <section>
+                        <h1 class="text-center">@ViewData["Title"]</h1>
+                        <form id="account" method="post">
+
+                            <hr />
+                            <div asp-validation-summary="All" class="text-danger"></div>
+                            <div class="form-group">
+                                <label asp-for="Input.Email"></label>
+                                <input asp-for="Input.Email" class="form-control" />
+                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Input.Password">Hasło</label>
+                                <input asp-for="Input.Password" class="form-control" />
+                                <span asp-validation-for="Input.Password" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <div class="checkbox">
+                                    <label asp-for="Input.RememberMe">
+                                        <input asp-for="Input.RememberMe" />
+                                       Zapamiętaj mnie?
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="btn-lg btn-primary float-right">Zaloguj</button>
+                            </div>
+                            <div class="form-group">
+                                <p>
+                                    <a id="forgot-password" asp-page="./ForgotPassword">Zapomniałeś hasła?</a>
+                                </p>
+                                @*<p>
+                    <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
+                </p>
+                                <p>
+                                    <button type="submit" asp-page-handler="SendVerificationEmail" class="btn-link" style="padding:0px;margin:0px;border:0px">Resend email confirmation</button>
+                                </p>*@
+                            </div>
+                        </form>
+                    </section>
+                </div>
+                <div class="col-md-5 offset-md-1">
+                    <section>
+
+
+
+                        <h4 class="text-center">Jak uzyskać konto?</h4>
+                        <div class="special" style="padding-top:6rem">
+
+                            <span class="far icon fa-hospital"></span>
+
+
+                            <h5>Klinika weteryneryjna </h5>
+                            <p>
+                                Aby klinika weszła w&nbspskład systemu, właściciel potrzebuje zgłosić chęć przystąpienia do projektu. W&nbspcelu dodania gabinetu, należy skontaktować się z&nbspadministratorem - za pomocą podanego na stronie głównej adresu email lub&nbsptelefonu. Po włączeniu placówki do systemu, właściciel ganinetu może zalogować się na swoje konto za pomocą danych logowania otrzymanych od&nbspadministratora. Po pierwszym logowaniu (ze względów bezpieczeństwa) użytkownik powinien zmienic swoje hasło.
+                                Po dodaniu pracowników przez właściciela placówki - mogą oni zalogować się do systemu.
+                            </p>
+                        </div>
+                            <div class="special" style="padding-top:6rem">
+
+                                <span class="fas icon fa-paw"></span>
+
+                                <h5>
+                                    Właściciele zwierząt
+                                </h5>
+                                <p> Tworzą swoje dane logowania w trakcie pierwszej wizyty w jednej z&nbspplacówek objetych projektem. Po pierwszym logowaniu wskazana jest zmiana hasła.</p>
+
+                        
+                    </section>
+                </div>
+            </div>
+
+            @section Scripts {
+                <partial name="_ValidationScriptsPartial" />
+            }
+            </div></div>

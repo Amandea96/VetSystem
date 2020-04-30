@@ -1,0 +1,166 @@
+﻿@model VetSystemEngineer.ViewModels.Pets
+@{
+    ViewData["Title"] = "Moja dokumentacja";
+    Layout = "_InstLayout";
+
+    ViewBag.Wallpaper = "../images/Cat.jpg";
+}
+
+
+<div class="box-cont mb=5">
+    <div class="container-fluid  ">
+
+        <div class="row ">
+
+
+
+
+
+            <div class="col-md-5 col-12">
+
+                <div class="m-auto" style="background-image:url(../images/Cat.jpg); height:100%;">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Przeglądaj dokumentację medyczną swoich pupili. Zarządzaj nią, decydując, które kliniki mają do niej dostęp</h5>
+                        <p class="card-text">
+                            Poniżej znajduje się lista placówek, które mają dostęp do dokumentacji. Po wyborze zwierzęcia i gabinetu, możesz nadać placówce prawa do dokumentacji. Proces ten jest nieodwracalny, więc upewnij się czy dobrze wybrałeś gabinet i zwierzę z listy.
+                        </p>
+
+
+                    </div>
+
+
+                </div>
+            </div>
+
+            <div class="table-responsive text-center col-md-7 col-12 justify-content-center pt-5 pt-md-0">
+                <table class="table table-hover">
+
+                    <thead>
+                        <tr>
+
+                            <th scope="col">Imię</th>
+                            <th scope="col">Typ zwierzęcia</th>
+                            <th scope="col">Rasa</th>
+                            <th scope="col">Wiek</th>
+
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var p in Model.PetsList)
+                        {
+
+                            <tr>
+
+
+                                <td> <a asp-controller="Visit" asp-action="MedicalDocumentation" asp-route-id="@p.IdPatient">@p.Name</a></td>
+                                <td>@p.IdGenusNavigation.NameGenus</td>
+                                <td>@p.Breed</td>
+                                <td>@Convert.ToDateTime(p.Age).ToString("dd/MM/yyyy")</td>
+
+
+                                <td>
+                                </td>
+
+
+                            </tr>
+
+
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+        <div class="special">
+
+            <span class="far icon fa-hospital"></span>
+            <div class="row mb-5">
+                <div class="col-md-6 col-12 testimonial-group" style="margin-bottom:3rem">
+                    <h4>Dostęp do dokumentacji</h4>
+
+
+
+                    <div class="row text-center pt-5 ">
+                        @for (int p = 0; p < ViewBag.Count; p++)
+                        {
+                            <div class="col-md-6 col-12">
+                                <strong> @Model.DocInInst[p].NamePet</strong>
+                                <hr />
+                                @for (int ins = 0; ins < Model.DocInInst[p].Insts.Count(); ins++)
+
+                                {
+                                    @Model.DocInInst[p].Insts[ins].NameInst <br />
+                                }
+                            </div>
+
+                        }
+                    </div>
+
+
+                   
+
+                </div>
+
+                <div class="col-md-6 col-12 px-5">
+                    <h4>Dodaj wybranej placówce dostęp do dokumentacji medycznej</h4>
+                    <form asp-action="Pets" method="post">
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                        <div class="row form-group pt-5 ">
+                            <div class="col-md-4 col-12 ">
+
+                                <select class="selectpicker form-control" data-style="btn-lg btn-outline-primary" data-size="4" asp-for="SelectedPet" asp-items=@Model.ListNamePet>
+                                    <option>Wybierz zwierzę</option>
+                                </select>
+
+                                
+                            </div>
+                            <div class="col-md-6 col-12 pt-3 pt-md-0 ">
+                                <select class="selectpicker form-control" data-live-search="true" data-size="4" data-style="btn-lg btn-outline-primary" asp-for="SelectedInst" asp-items=@Model.ListInst>
+                                    <option>Wybierz placówkę</option>
+                                </select>
+                            </div>
+                            <div class=" col-12 col-md-2 pt-3 pt-md-0 ">
+                                <button type="button" data-width="auto" class="btn-lg btn-primary  " data-toggle="modal" data-target="#exampleModal">Dodaj</button>
+                            </div>
+                        </div>
+                        <!-- Button trigger modal -->
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header text-center">
+                                        <h4 class="modal-title w-100" id="exampleModalLabel">Dodaj dokumentację do placówki</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body text-center font-weight-light">
+                                        <h5> Czy na pewno chcesz dodać dokumentację medyczną wybranego pupila do placówki?</h5>
+                                        <h5>Proces ten jest nieodwracalny!</h5>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Anuluj</button>
+                                        <button type="submit" class="btn btn-primary">Dodaj</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

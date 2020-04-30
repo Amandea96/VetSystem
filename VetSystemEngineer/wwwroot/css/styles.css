@@ -1,0 +1,212 @@
+﻿.register {
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.reg {
+    
+    background: white;
+}
+
+
+
+.wrapper {
+    padding: 6em 0 4em 0;
+    position: relative;
+}
+
+.wrapper2 {
+    margin: 0 auto;
+    width: 80em;
+    position: relative;
+    z-index: 99;
+}
+
+.about {
+    
+   
+    margin-bottom: 7em;
+    margin-top: 7em;
+}
+
+.about-img {
+    margin-bottom: 5em;
+    
+}
+
+body.gray {
+    background: #E8EEF4;
+}
+
+
+.box-cont {
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 2px 0 0 #e5e5e5;
+    padding-top: 3%;
+    padding-right: 1%;
+    padding-bottom: 3em;
+    padding-left: 1%;
+    font-size: 1.4rem;
+}
+.box-c-dark {
+    background: rgb(52,58,64);
+    border-radius: 6px;
+    box-shadow: 0 2px 0 0 #e5e5e5;
+    padding: 2rem;
+    color: #FFF;
+}
+
+
+.box-c-dark-inst {
+    background: rgba(52,58,64,0.4);
+    border-radius: 6px;
+   
+    box-shadow: 0 2px 0 0 #000;
+    margin:auto;
+    color: #FFF;
+}
+.search-form {
+margin-left:10rem;
+}
+
+.card-header .fa {
+    transition: .3s transform ease-in-out;
+}
+
+.card-header .collapsed .fa {
+    transform: rotate(90deg);
+}
+
+label {
+    font-family: 'IBM Plex Sans';
+}
+
+.album {
+   
+ top: 50%;
+    transform: translateY(-50%);
+    bottom: initial;
+    font-family:"Monotype Corsiva";
+  
+}
+
+.album-font {
+    font-size: 6vw;
+    font-weight: 700;
+}
+
+.box-cont2 {
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 2px 0 0 #e5e5e5;
+    font-size: 1.4rem;
+    
+}
+.hr-contact {
+    background-color: #fff;
+}
+
+  .p-contact{
+      font-size:1.25rem;
+  }
+
+@media only screen and (max-width: 500px) {
+    .smaller-img {
+        width: 90%;
+    }}
+
+.header-img {
+    background-size: cover;
+}
+
+home-img{
+    height:auto;
+    width:100%;
+}
+
+.btn-marg-b{
+
+    margin-bottom:1rem;
+}
+
+.special {
+    
+    padding-top: 7em;
+    position: relative;
+    text-align: center;
+}
+
+    .special:before,.special:after {
+        border-bottom: solid 1.5px;
+        border-top: solid 1.5px;
+        content: '';
+        height: 7px;
+        opacity: 0.1;
+        position: absolute;
+        top: 1.75em;
+        width: 43%;
+    }
+
+    .special:before {
+        left: 0;
+    }
+
+    .special:after {
+        right: 0;
+    }
+
+   .special h2 {
+        margin-bottom: 0;
+    }
+
+        .special h2 + p {
+            margin-bottom: 0;
+            padding-top: 1.5em;
+        }
+
+    .special .icon {
+        cursor: default;
+        height: 2em;
+        left: 0;
+        position: absolute;
+        text-align: center;
+        top: 1em;
+        width: 100%;
+        opacity: 0.35;
+    }
+
+       .special .icon:before {
+            font-size: 3.5em;
+            opacity: 0.35;
+        }
+
+.testimonial-group > .row {
+    overflow-x: auto;
+    display:flex;
+    flex-wrap: nowrap;
+}
+
+    .testimonial-group > .row > .col-md-6 {
+        flex: 0 0 auto;
+    }
+@media (min-width: 768px) {
+
+    .vl {
+        border-left: 1.5px solid ;
+        height: 690px;
+        position: absolute;
+        left: 50%;
+        margin-left: -3px;
+       
+        
+        opacity: 0.1;
+    }
+}
+
+.v2 {
+    border-top: 1.5px solid;
+    border-bottom: 1.5px solid;
+    border-width: 1.5px;
+    height: 7px;
+    opacity: 0.1;
+}

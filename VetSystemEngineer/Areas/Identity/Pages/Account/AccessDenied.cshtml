@@ -1,0 +1,15 @@
+﻿@page
+@model AccessDeniedModel
+@{
+    ViewData["Title"] = "Brak dostępu";
+}
+
+    <header>
+        <div class="box-cont  mx-1 mx-lg-5 mx-md-2 text-center">
+            <div class="special" style="padding-top:6rem">
+               
+                <span class=" icon fas fa-exclamation-circle"></span>
+                <h1 class="text-danger">@ViewData["Title"]</h1>
+                <p class="text-danger">Nie masz dostępu do tego zasobu. Upewnij się czy wpisany URL jest poprawny.</p>
+            </div></div>
+    </header>

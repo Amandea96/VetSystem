@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-VetSystemEngineer-241C3552-8219-4C94-AA4F-7EBA1B01A869</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\Migrations\20200113015630_new.cs" />
+    <Compile Remove="Data\Migrations\20200113015630_new.Designer.cs" />
+    <Compile Remove="Data\Migrations\20200113022625_new.cs" />
+    <Compile Remove="Data\Migrations\20200113022625_new.Designer.cs" />
+    <Compile Remove="Data\Migrations\20200113031753_baseMigration.cs" />
+    <Compile Remove="Data\Migrations\20200113031753_baseMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200113035730_baseMigration.cs" />
+    <Compile Remove="Migrations\20200113035730_baseMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200114030252_migration.cs" />
+    <Compile Remove="Migrations\20200114030252_migration.Designer.cs" />
+    <Compile Remove="Migrations\20200114030745_req.cs" />
+    <Compile Remove="Migrations\20200114030745_req.Designer.cs" />
+    <Compile Remove="Migrations\20200114040805_nullable.cs" />
+    <Compile Remove="Migrations\20200114040805_nullable.Designer.cs" />
+    <Compile Remove="Migrations\20200115003121_nameAdd.cs" />
+    <Compile Remove="Migrations\20200115003121_nameAdd.Designer.cs" />
+    <Compile Remove="Migrations\20200128234855_AddPatientInst.cs" />
+    <Compile Remove="Migrations\20200128234855_AddPatientInst.Designer.cs" />
+    <Compile Remove="Migrations\20200219231015_best.cs" />
+    <Compile Remove="Migrations\20200219231015_best.Designer.cs" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="2.5.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.1.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="3.1.2" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <VisualStudio><UserProperties appsettings_1json__JsonSchema="" libman_1json__JsonSchema="" /></VisualStudio>
+  </ProjectExtensions>
+</Project>

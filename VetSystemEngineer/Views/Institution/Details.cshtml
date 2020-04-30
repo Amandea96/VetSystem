@@ -1,0 +1,75 @@
+﻿@model VetSystemEngineer.ViewModels.ShowInstitution
+
+@{
+    ViewData["Title"] =  Model.Inst.NameInst;
+    ViewBag.Wallpaper="../../images/Szczegóły.jpg";
+    Layout = "_InstLayout";
+    
+
+}
+
+    <div class="box-cont">
+        <div class="container-fluid  ">
+            <div class="row ">
+                <div class="col-md-4 col-sm-12">
+                    
+                        <h2>Kontakt</h2><br />
+                        <p><b>Miasto</b>: @Model.Inst.City</p>
+                        <p>
+                            <b>
+                                Nazwa
+                            </b>: @Model.Inst.NameInst
+                        </p>
+                        <p>
+                            <b>Ulica</b>: @Model.Inst.AddressInst
+                        </p>
+                        <p>
+                            <b>Email</b>: @Model.Inst.EmailInst
+                        </p>
+                        <p>
+                            <b>Kod Pocztowy</b>: @Model.Inst.Postcode
+                        </p>
+                        <p>
+                            <b>Tel.</b>: @Model.Inst.PhNumInst
+                        </p>
+                        <p>
+                            <b>
+                                Pracownicy
+                            </b>:
+                            <ul>
+                                @foreach (var em in Model.Employees)
+                                {
+                                    <li>@em.Education @em.Name @em.Surname</li>
+}
+                                
+                            </ul>
+                        </p>
+
+                    
+
+                </div>
+
+                <br />
+
+                <div class="col-12 col-md-8">
+                    <h3>Informacje dodatkowe</h3>
+                    <br />
+                    <div>
+                        @Model.Inst.InterList
+
+
+
+                    </div>
+                </div>
+            </div>
+
+
+</div></div>
+
+
+
+
+
+
+
+
